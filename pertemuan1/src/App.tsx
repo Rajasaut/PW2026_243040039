@@ -108,7 +108,7 @@ function App() {
         <h1 style={{ color: "#1B365D", margin: "0 0 8px 0" }}>
           Praktikum Pemrograman Web
         </h1>
-        <p style={{ color: "#666", fontSize: "15px" }}>
+        <p style={{ color: "#666", fontSize: "15px", marginTop: "20px" }}>
           Laboratorium Informatika - Modul 1: Pengenalan React JS & Vite
         </p>
       </header>
@@ -120,7 +120,7 @@ function App() {
           fotoUrl="/foto.jpg"
           nama="Raja Saut Sihaloho"
           npm="243040039"
-          kelas="IF - Praktikum"
+          kelas="IF.B_Pratikum Web"
           status="Aktif"
         />
         <h3 style={{ color: "#2C3E50", marginBottom: "10px" }}>Keahlian</h3>
