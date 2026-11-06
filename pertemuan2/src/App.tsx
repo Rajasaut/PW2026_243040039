@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import FormTugas from "./Componen/FormTugas";
-import ItemTugas, { type Tugas } from "./Componen/Itemtugas";
+import ItemTugas, { type Tugas } from "./Componen/ItemTugas";
 import Kartu from "./Componen/Kartu";
 import Penghitung from "./Componen/penghitung";
 
